@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery_app/componenets/my_button.dart';
-import 'package:food_delivery_app/componenets/my_textfield.dart';
+import 'package:food_delivery_app/components/my_button.dart';
+import 'package:food_delivery_app/components/my_textfield.dart';
 
 class RegisterPage extends StatefulWidget {
 
